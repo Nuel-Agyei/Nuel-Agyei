@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Nuel 👋
 
-<!--
-**Nuel-Agyei/Nuel-Agyei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Accra, Ghana 🇬🇭 — I build and ship real products for clients and myself, from web dashboards to mobile apps.
 
-Here are some ideas to get you started:
+I specialize in building fast, practical software: SaaS platforms, fintech-adjacent tools with local payment rails, and mobile apps that people in Ghana actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:** Laravel · Livewire · PHP  
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Alpine.js · Vite  
+**Mobile:** Flutter  
+**Payments:** Paystack · Flutterwave · MTN MoMo  
+**Deployment:** Vercel · Laravel Cloud
+
+## 🚀 What I've Been Building
+
+- 🏠 **Handan** — a property management platform for Ghanaian landlords, built on Laravel with a Flutter mobile app
+- ✈️ **Coders Who Travel** — rebuilt the org's site in Next.js/TypeScript/Tailwind
+- 🧾 **Nudge** — a Laravel invoicing app with PDF generation, deployed on Laravel Cloud
+- 💚 **Dondee Foundation** — a React/Vite site for a Ghanaian mental health NGO
+
+## 💡 What I Bring
+
+- 🧩 **Clean, shippable code** — I care about code that's maintainable, not just working
+- 💳 **Payments that work locally** — real experience wiring up Paystack, Flutterwave, and MTN MoMo end to end
+- 📱 **Web-to-mobile** — comfortable building the same product across Laravel/React on web and Flutter on mobile
+- 🌱 **Always learning** — currently deepening my JavaScript fundamentals and pursuing a Diploma in Software Development at Open Labs Ghana
+
+## 📫 Reach Me
+
+- GitHub: [@Nuel-Agyei](https://github.com/Nuel-Agyei)
+
+---
+⭐️ Open to freelance work and full-time opportunities
