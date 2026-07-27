@@ -14,7 +14,6 @@ I specialize in building fast, practical software: SaaS platforms, fintech-adjac
 
 ## 🚀 What I've Been Building
 
-- 🏠 **Handan** — a property management platform for Ghanaian landlords, built on Laravel with a Flutter mobile app
 - ✈️ **Coders Who Travel** — rebuilt the org's site in Next.js/TypeScript/Tailwind
 - 🧾 **Nudge** — a Laravel invoicing app with PDF generation, deployed on Laravel Cloud
 - 💚 **Dondee Foundation** — a React/Vite site for a Ghanaian mental health NGO
@@ -27,8 +26,6 @@ I specialize in building fast, practical software: SaaS platforms, fintech-adjac
 - 🌱 **Always learning** — currently deepening my JavaScript fundamentals and pursuing a Diploma in Software Development at Open Labs Ghana
 
 ## 📫 Reach Me
-
-- GitHub: [@Nuel-Agyei](https://github.com/Nuel-Agyei)
 
 ---
 ⭐️ Open to freelance work and full-time opportunities
