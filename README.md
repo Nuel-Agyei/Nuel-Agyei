@@ -26,6 +26,6 @@ I specialize in building fast, practical software: SaaS platforms, fintech-adjac
 - 🌱 **Always learning** — currently deepening my JavaScript fundamentals and pursuing a Diploma in Software Development at Open Labs Ghana
 
 ## 📫 Reach Me
-
+**nuelagyei992@gmail.com**
 ---
 ⭐️ Open to freelance work and full-time opportunities
