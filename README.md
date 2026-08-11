@@ -1,31 +1,57 @@
-# Hey, I'm Nuel 👋
+# nuel-agyei
 
-Full-stack developer based in Accra, Ghana 🇬🇭 — I build and ship real products for clients and myself, from web dashboards to mobile apps.
+> Maintainer credibility and contributor clarity.
 
-I specialize in building fast, practical software: SaaS platforms, fintech-adjacent tools with local payment rails, and mobile apps that people in Ghana actually use.
+**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-## 🛠️ Tech Stack
+## Header
+> Editing this section in the inspector.
+Hi, I'm **nuel-agyei**. This README is tuned for **open source** with a Neon visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=nuel-agyei&theme=neon" alt="nuel-agyei hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=nuel-agyei&theme=neon" alt="nuel-agyei about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=nuel-agyei&theme=neon" alt="nuel-agyei stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Neon** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=nuel-agyei&theme=neon" alt="nuel-agyei stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=nuel-agyei&theme=neon" alt="nuel-agyei projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nuel-agyei&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=nuel-agyei&theme=neon" alt="nuel-agyei social section" />
+  </picture>
+</p>
 
-**Backend:** Laravel · Livewire · PHP  
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Alpine.js · Vite  
-**Mobile:** Flutter  
-**Payments:** Paystack · Flutterwave · MTN MoMo  
-**Deployment:** Vercel · Laravel Cloud
-
-## 🚀 What I've Been Building
-
-- ✈️ **Coders Who Travel** — rebuilt the org's site in Next.js/TypeScript/Tailwind
-- 🧾 **Nudge** — a Laravel invoicing app with PDF generation, deployed on Laravel Cloud
-- 💚 **Dondee Foundation** — a React/Vite site for a Ghanaian mental health NGO
-
-## 💡 What I Bring
-
-- 🧩 **Clean, shippable code** — I care about code that's maintainable, not just working
-- 💳 **Payments that work locally** — real experience wiring up Paystack, Flutterwave, and MTN MoMo end to end
-- 📱 **Web-to-mobile** — comfortable building the same product across Laravel/React on web and Flutter on mobile
-- 🌱 **Always learning** — currently deepening my JavaScript fundamentals and pursuing a Diploma in Software Development at Open Labs Ghana
-
-## 📫 Reach Me
-**nuelagyei992@gmail.com**
----
-⭐️ Open to freelance work and full-time opportunities
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
