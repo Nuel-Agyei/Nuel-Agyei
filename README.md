@@ -51,23 +51,44 @@ const nuel = {
 
 ## 📌 Pinned Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Nuel-Agyei/portfolioo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuel-Agyei&repo=portfolioo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Nuel-Agyei/school_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuel-Agyei&repo=school_system&theme=tokyonight&hide_border=true" />
-</a>
+### 🌐 [portfolioo](https://github.com/Nuel-Agyei/portfolioo)
+Personal developer portfolio site
 <br/>
-<a href="https://github.com/Nuel-Agyei/todo-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuel-Agyei&repo=todo-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Nuel-Agyei/breaded">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuel-Agyei&repo=breaded&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-</div>
+</td>
+<td width="50%">
+
+### 🏫 [school_system](https://github.com/Nuel-Agyei/school_system)
+Full school management system
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ [todo-app](https://github.com/Nuel-Agyei/todo-app)
+Task management application
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+</td>
+<td width="50%">
+
+### 📱 [breaded](https://github.com/Nuel-Agyei/breaded)
+Cross-platform mobile app
+<br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
