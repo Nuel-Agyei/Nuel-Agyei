@@ -5,7 +5,6 @@
 **Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
-> Editing this section in the inspector.
 Hi, I'm **nuel-agyei**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
   <picture>
