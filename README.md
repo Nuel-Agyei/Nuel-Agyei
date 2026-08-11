@@ -5,29 +5,25 @@
 **Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **nuel-agyei**. This README is tuned for **open source** with a Neon visual system.
+Hi, I'm **nuel-agyei**. 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nuel-agyei&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=nuel-agyei&theme=neon" alt="nuel-agyei hero section" />
   </picture>
 </p>
-## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nuel-agyei&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/about?username=nuel-agyei&theme=neon" alt="nuel-agyei about section" />
   </picture>
 </p>
-## Skills
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nuel-agyei&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=nuel-agyei&theme=neon" alt="nuel-agyei stack section" />
   </picture>
 </p>
-## GitHub Stats
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nuel-agyei&theme=neon&mode=light" />
