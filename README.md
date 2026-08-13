@@ -1,6 +1,5 @@
 # nuel-agyei
 
-## Header
 Hi, I'm **nuel-agyei**. 
 <p align="center">
   <picture>
