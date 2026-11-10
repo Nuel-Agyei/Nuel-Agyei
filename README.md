@@ -1,6 +1,5 @@
 # nuel-agyei
 
-Hi, I'm **nuel-agyei**. 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nuel-agyei&theme=neon&mode=light" />
