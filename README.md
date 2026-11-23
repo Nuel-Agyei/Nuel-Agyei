@@ -38,5 +38,6 @@
     <img src="https://www.gitskins.com/api/section/social?username=nuel-agyei&theme=neon" alt="nuel-agyei social section" />
   </picture>
 </p>
+<p><a href="mailto:nuelagyei992@gmail.com">Send me an Email</a> </p>
 
 <!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
